@@ -1,8 +1,8 @@
 #**¡Hola! 👋🏼 Mica de soja.**
 
-💪Estudiando para convertirme en Full Stack Developer. Certificado como Profesional en Gestión de Medios Digitales.
+💪Estudiando para convertirme en Full Stack Developer. Certificada como Profesional en Gestión de Medios Digitales.
 
-🤓Aprendí diferentes lejugajes y herramientas, entre ellos:
+🤓Aprendí diferentes lenguajes y herramientas, entre ellos:
 * HTML
 * CSS
 * JavaScript
