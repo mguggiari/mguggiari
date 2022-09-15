@@ -1,4 +1,4 @@
-#**¡Hola! 👋🏼 Mica de soja.**
+#**¡Hola! 👋🏼 mi nombre es Mica.**
 
 💪Estudiando para convertirme en Full Stack Developer. Certificada como Profesional en Gestión de Medios Digitales.
 
