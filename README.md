@@ -12,4 +12,4 @@
 
 🌸Me encanta el diseño, y más aún cuando logro lo que me propuse crear.
 
-📲Contáctame a través de mi mail: micaelaguggiari@hotmail.com
+📲Contáctame a través de mi mail: micaelaguggiari99@gmail.com
