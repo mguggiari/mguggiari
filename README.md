@@ -6,9 +6,10 @@
 * HTML
 * CSS
 * JavaScript
-* Photoshop/Ilustrador
+* PHP
+* Photoshop/Ilustrator
 
-🧐Progresando en Vue, WordPress, Bases de Datos y PHP.
+🧐Progresando en React.
 
 🌸Me encanta el diseño, y más aún cuando logro lo que me propuse crear.
 
